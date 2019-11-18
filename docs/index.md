@@ -13,7 +13,18 @@ For this assignment 7, we are to use the web to research good examples of websit
 
 https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg
 
+Here's our logo (hover to see the title text):
 
+Inline-style: 
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg "Figure1")
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 https://www.w3schools.com/python/python_try_except.asp
