@@ -33,12 +33,12 @@ Let’s look at an extremely simple example the benefit of structured error hand
 ![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg "Figure 1")<br/>
 Figure 1. Screenshot of a simple code to demonstrate an error.<br/>
 
-![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure2.jpg "Figure 2")<br/>
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure2.png "Figure 2")<br/>
 Figure 2. Screenshot of result from running the code.<br/>
 
 The error shown in Figure 2 is useful to the software developer but not too useful to the user of the program. If the error is expected, the developer can add some code to handle the error in a much more elegant way. Here, in Figure 3, is the modification to the code to solve this problem.<br/>
 
-![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure3.jpg "Figure 3")<br/>
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure3.png "Figure 3")<br/>
 Figure 3. Screenshot of modified code to handle errors.<br/>
 
 
