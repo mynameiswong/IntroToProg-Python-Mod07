@@ -41,6 +41,22 @@ The error shown in Figure 2 is useful to the software developer but not too usef
 ![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure3.png "Figure 3")<br/>
 **Figure 3. Screenshot of modified code to handle errors.**<br/>
 
+The resulting output from running the program, as shown in Figure 4, is much more palatable to the user. The output can be written in plain simple English as oppose to the gibberish that the user sees from the earlier output in Figure 2.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure4.png "Figure 4")<br/>
+**Figure 4. Screenshot of resulting output from the modified code to handle errors.**<br/>
+
+**Built-in Exceptions**
+Python provides some basic exception classes which are already defined and can be used in generic cases. A list of Built-in exceptions is shown Figure 5 from the datacamp.com website.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure5.png "Figure 5")<br/>
+**Figure 5. Screenshot of a list of Built-in exceptions from https://www.datacamp.com/community/tutorials/exception-handling-python**
+
+**Exception Handling Example: ValueError**
+Now look at the code as shown in Figure 6. It’s asking the user to enter an integer. When the user does that, the program should display a sentence that the user has successful entered an integer.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure6.png "Figure 6")<br/>
+**Figure 6. Screenshot of code that ask user to input an integer.**<br/>
 
 
 
