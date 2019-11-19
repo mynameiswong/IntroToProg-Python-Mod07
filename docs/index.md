@@ -26,9 +26,9 @@ I found these four webpages below on except handling exceptionally good. To me, 
 
 [w3wschools.com - Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
 
-[https://www.pythonforbeginners.com/error-handling/exception-handling-in-python]
+[PythonForBegineers - Exception Handling in Python](https://www.pythonforbeginners.com/error-handling/exception-handling-in-python)
 
-[https://www.datacamp.com/community/tutorials/exception-handling-python]
+[DataCamp](https://www.datacamp.com/community/tutorials/exception-handling-python)
 
 
 ![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg "Figure1")
