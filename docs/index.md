@@ -28,18 +28,19 @@ According to the website pythonforbeginners.com in the 2nd link above, if descri
 error occurs, Python generate an exception that can be handled, which avoids your
 program to crash.” The website goes to say that, “exceptions are convenient in many ways for handling errors and special conditions in a program. When you think that you have a code which can produce an error then you can use exception handling.”
 
-Let’s look at an extremely simple example the benefit of structured error handling. Figure 1 is code that will result in an error when ran. This error is shown in Figure 2.
+Let’s look at an extremely simple example the benefit of structured error handling. Figure 1 is code that will result in an error when ran. This error is shown in Figure 2.<br/>
 
-![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg "Figure1")<br/>
-Figure 1. Screenshot of a simple code to demonstrate an error.
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg "Figure 1")<br/>
+Figure 1. Screenshot of a simple code to demonstrate an error.<br/>
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure2.jpg "Figure 2")<br/>
+Figure 2. Screenshot of result from running the code.<br/>
 
-Reference-style: 
-![alt text][logo]
+The error shown in Figure 2 is useful to the software developer but not too useful to the user of the program. If the error is expected, the developer can add some code to handle the error in a much more elegant way. Here, in Figure 3, is the modification to the code to solve this problem.<br/>
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure3.jpg "Figure 3")<br/>
+Figure 3. Screenshot of modified code to handle errors.<br/>
+
 
 
 
