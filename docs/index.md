@@ -70,8 +70,30 @@ In order to handle this error more appropriately, we can use one of the python�
 
 Now, when the user runs the program and enters the letter “a”, it will display, “No valid integer!” and to, “Please try again…” See Figure 9. The program will continuously display the same error message until the user enters an integer, then it will display, “Awesome, you successfully entered an integer!” This way of handling the error is much more user friendly.<br/>
 
-![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure8.png "Figure 8")<br/>
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure9.png "Figure 9")<br/>
 **Figure 9. Screenshot of the output from running the code in Figure 8.**<br/>
+
+**Exception Handling Example: finally**<br/>
+Now, we look at the finally block. Once specified, it will execute whether the try block raises and error or not. Look at the code example in Figure 10.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure10.png "Figure 10")<br/>
+**Figure 10. Screenshot of the code using the finally block with try.**<br/>
+
+You can see that with the finally block, as shown in the output in Figure 11, it will execute the code under it even if the error occurs.<br/>
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure11.png "Figure 11")<br/>
+**Figure 11. Screenshot of the output using the finally block with try.**<br/>
+
+**Research Pickling in Python**<br/>
+As for websites research on pickling in Python, I found these websites below to be good. The reasons why I chose them are the same reasons as mentioned above for exception handling. 
+
+[DataCamp - Pickle in Python](https://www.datacamp.com/community/tutorials/pickle-python-tutorial)
+
+[PythonCentral - How to Pickle](https://www.pythoncentral.io/how-to-pickle-unpickle-tutorial)
+
+[GeeksforGeeks - Understanding Python Pickling](https://www.geeksforgeeks.org/understanding-python-pickling-example)
+
+
+
 
 
 
