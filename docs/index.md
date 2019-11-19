@@ -84,13 +84,35 @@ You can see that with the finally block, as shown in the output in Figure 11, it
 **Figure 11. Screenshot of the output using the finally block with try.**<br/>
 
 **Research Pickling in Python**<br/>
-As for websites research on pickling in Python, I found these websites below to be good. The reasons why I chose them are the same reasons as mentioned above for exception handling. 
+As for websites research on pickling in Python, I found these websites below to be good. The reasons why I chose them are the same reasons as mentioned above for exception handling.<br/>
 
 [DataCamp - Pickle in Python](https://www.datacamp.com/community/tutorials/pickle-python-tutorial)
 
 [PythonCentral - How to Pickle](https://www.pythoncentral.io/how-to-pickle-unpickle-tutorial)
 
 [GeeksforGeeks - Understanding Python Pickling](https://www.geeksforgeeks.org/understanding-python-pickling-example)
+
+As described in the website pythoncentral.io above, the term, “pickle means storing something in a saline solution. Only here, instead of vegetables its objects.” As the webpage continues, “pickling converts any kind of complex data to 0s and 1s (byte streams). The resulting byte stream can also be converted back into Python objects by a process known as Unpickling.”<br/>
+
+**Advantages and disadvantages of Pickling**<br/>
+According to the datacamp.com website above, pickling is useful for, “applications where you need some degree of persistency in your data.” The pythoncentral.io website above notes that pickling helps in, “saving complicated data.” And that it is, “quite easy to use, [as it] doesn’t require several lines of code and hence not bulky.” Additionally, the saved data is, “not so readable hence provides some data security.” However, datacamp.com warns that we should try not to, “unpickle data from an untrusted source as malicious code inside the file might be executed upon unpickling.”<br/>
+
+**Pickling Example**<br/>
+See Figure 12 for a very simple example of how pickling in done in python. We have to import the pickle function and then use the code pickle.dump() to save the data.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure12.png "Figure 12")<br/>
+**Figure 12. Screenshot of a simple code as an example of using pickling.**<br/>
+
+The data is saves as a binary file. Opening the file shows a bunch of gibberish information as shown in Figure 13.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure13.png "Figure 13")<br/>
+**Figure 13. Screenshot of a binary file created from pickling.**<br/>
+
+In order to open the save data or unpickle it, we use the following code as shown in Figure 14.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure14.png "Figure 14")<br/>
+**Figure 14. Screenshot of a code file to unpickle.**<br/>
+
 
 
 
