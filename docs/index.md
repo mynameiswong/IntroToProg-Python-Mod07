@@ -113,7 +113,23 @@ In order to open the save data or unpickle it, we use the following code as show
 ![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure14.png "Figure 14")<br/>
 **Figure 14. Screenshot of a code file to unpickle.**<br/>
 
+The output from running the code above in Figure 14 is shown in Figure 15.
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure15.png "Figure 15")<br/>
+**Figure 15. Screenshot of a output after unpickling.**<br/>
 
+**Pickling Example: List**<br/>
+As another example, we are going to use the same pickling code to save a list instead. This code is shown in Figure 16.<br/>
+
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure16.png "Figure 16")<br/>
+**Figure 16. Screenshot of a code file to pickle a list.**<br/>
+
+In order to unpickle the list, we use the code shown in Figure 17.<br/>
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure17.png "Figure 17")<br/>
+**Figure 17. Screenshot of a code file to unpickle the list.**<br/>
+
+The resulting output is shown in Figure 18.<br/>
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure18.png "Figure 18")<br/>
+**Figure 18. Screenshot of the output from unpickling the list.**<br/>
 
 
 
