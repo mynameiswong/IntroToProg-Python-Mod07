@@ -23,15 +23,14 @@ I found these three webpages below on except handling exceptionally good. To me,
 
 [DataCamp - Exception and Error Handling in Python](https://www.datacamp.com/community/tutorials/exception-handling-python)
 
-**Exception Handling Example**
-
+**Exception Handling Example**<br/>
 According to the website pythonforbeginners.com in the 2nd link above, if describes an exception, “as an error that happens during execution of a program. When that
 error occurs, Python generate an exception that can be handled, which avoids your
 program to crash.” The website goes to say that, “exceptions are convenient in many ways for handling errors and special conditions in a program. When you think that you have a code which can produce an error then you can use exception handling.”
 
 Let’s look at an extremely simple example the benefit of structured error handling. Figure 1 is code that will result in an error when ran. This error is shown in Figure 2.
 
-![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg "Figure1")
+![alt text](https://raw.githubusercontent.com/mynameiswong/IntroToProg-Python-Mod07/master/docs/Figure1.jpg "Figure1")<br/>
 Figure 1. Screenshot of a simple code to demonstrate an error.
 
 Inline-style: 
