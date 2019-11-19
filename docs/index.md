@@ -13,7 +13,7 @@ Professor: Randal Root
 
 Assignment 07
 
-**Introduction**
+**Introduction**\n
 For this assignment 7, we are to use the web to research good examples of websites for pickling and error handling in python. We are then to explain the subject and why we feel these websites are good. We are then to post our assignment on GitHub, create a GitHub webpage, and take the text, images, and links from your Word document and put them into the GitHub webpage.
 
 **Assignment**
