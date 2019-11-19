@@ -1,7 +1,6 @@
 # UW Foundation of Programming: Python - Assignment 7
 ---
 Kevin Wong
-
 November 18, 2019
 
 Foundations of Programming: Python
