@@ -134,12 +134,12 @@ The resulting output is shown in Figure 18.<br/>
 **Post Files to GitHub**<br/>
 In this module, we need to post our Word document and Python file on a public GitHub repository so that others may review it. 
 
-[My GitHub Repository](https://github.com/mynameiswong/IntroToProg-Python-Mod07)
+  [My GitHub Repository](https://github.com/mynameiswong/IntroToProg-Python-Mod07)
 
 **Add a GitHub Webpage**<br/>
 We will also need to add a GitHub webpage to your repository. In this assignment, we must take the text, images, and links from your Word document and put them into the GitHub webpage.<br/>
 
-[My GitHub Webpage](https://mynameiswong.github.io/IntroToProg-Python-Mod07/)
+  [My GitHub Webpage](https://mynameiswong.github.io/IntroToProg-Python-Mod07/)
 
 **Summary**<br/>
 I felt that in assignment 7, half my time was spent learning about two new items in python: error handling and pickling, and the other half was learning how to transfer my Word document and on to a GitHub webpage, and to make it look presentable. Pickling is interesting as it allow the user to save more types of data than what you can just into a text file. And structured error handling is just a fancier way to present an error message, one that a layman can understand rather than a software developer.
