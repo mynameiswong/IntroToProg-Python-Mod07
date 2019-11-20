@@ -137,7 +137,7 @@ In this module, we need to post our Word document and Python file on a public Gi
 **My GitHub repository:**<br/>
 [My GitHub Repository](https://github.com/mynameiswong/IntroToProg-Python-Mod07)
 
-**Add a GitHub Webpage **<br/>
+**Add a GitHub Webpage**<br/>
 We will also need to add a GitHub webpage to your repository. In this assignment, we must take the text, images, and links from your Word document and put them into the GitHub webpage. 
 
 **My GitHub Webpage:**<br/>
